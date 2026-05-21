@@ -13,7 +13,7 @@ def home():
 
 # 2. TELEGRAM BOT QISMI
 # Tokenni birinchi bo'lib Render muhitidan (Environment) qidiradi, topilmasa pastdagini oladi
-BOT_TOKEN = os.environ.get("BOT_TOKEN", "BOT_TOKENINGIZNI_YOZING")
+BOT_TOKEN = os.environ.get("BOT_TOKEN", "8883773002:AAFghpw-SX5-Ph8nCRUYYLVbgbEgPYAMQm4")
 bot = telebot.TeleBot(BOT_TOKEN)
 
 # Imtihon savollari bazasi
